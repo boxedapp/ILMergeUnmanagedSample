@@ -1,2 +1,2 @@
 # ILMergeUnmanagedSample
-Show how to ILMerge unmanaged DLLs
+Shows how to ILMerge unmanaged DLLs
